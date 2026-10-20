@@ -27,7 +27,7 @@
 
 公开活动由 [Level](https://github.com/Gyziel/Level) 自动整理：
 
-[活动记录](https://github.com/Gyziel/Level/blob/main/activity.txt) · [运行状态](https://github.com/Gyziel/Level/actions) · [贡献动画](https://github.com/Gyziel/CnGyZzh/blob/output/github-contribution-grid-snake.svg)
+[活动记录](https://github.com/Gyziel/Level/blob/main/activity.txt) · [运行状态](https://github.com/Gyziel/Level/actions) · [贡献动画](https://github.com/Gyziel/Gyziel/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
